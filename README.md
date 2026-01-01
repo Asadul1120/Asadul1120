@@ -1,16 +1,122 @@
-## Hi there 👋
+👋 Hi, I'm Asadul Islam
 
-<!--
-**Asadul1120/Asadul1120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Full-Stack Web Developer | 💻 JavaScript Enthusiast | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I love building modern, scalable, and user-friendly web applications using the MERN stack and related technologies. I focus on clean code, performance, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+🧑‍💻 About Me
+
+🔭 Currently working on full-stack web applications
+
+🌱 Learning advanced concepts in MERN, Next.js, and system design
+
+💬 Ask me about React, Node.js, MongoDB, REST APIs
+
+🎯 Goal: Become a professional software engineer and build impactful products
+
+🇧🇩 Based in Bangladesh
+
+
+
+---
+
+🛠️ Tech Stack
+
+Frontend
+
+HTML5, CSS3
+
+Tailwind CSS, Bootstrap
+
+JavaScript (ES6+)
+
+React.js, Next.js
+
+Vite
+
+
+Backend
+
+Node.js
+
+Express.js
+
+REST API Development
+
+JWT Authentication
+
+
+Database
+
+MongoDB
+
+Firebase (Firestore)
+
+MySQL
+
+
+Tools & Others
+
+Git & GitHub
+
+Postman
+
+Figma
+
+Netlify, Vercel, Render
+
+
+
+---
+
+📌 Featured Projects
+
+🔹 E-commerce Web App
+
+React.js (Vite), Node.js, Express, MongoDB
+
+Authentication, Admin Dashboard, Cart, Orders
+
+
+🔹 Blog Application
+
+Full CRUD, Like/Dislike, Comments, Admin Panel
+
+
+🔹 Real-time Chat App
+
+Socket.IO, MongoDB, JWT Authentication
+
+
+👉 Check my repositories to see more projects!
+
+
+---
+
+📊 GitHub Stats
+
+
+
+
+
+
+---
+
+🌐 Connect With Me
+
+🌍 Portfolio: https://asadulislam-dev.netlify.app/
+
+📧 Email: asadulcb45@gmail.com
+
+💼 GitHub: https://github.com/Asadul1120
+
+
+
+---
+
+⭐ If you like my work, don't forget to star my repositories!
+
+Thanks for visiting my profile 😊
